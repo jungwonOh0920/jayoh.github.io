@@ -1,11 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide Test on VS2"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
